@@ -1,0 +1,17 @@
+c:\users\hp\documents\visual studio 2013\Projects\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll
+c:\users\hp\documents\visual studio 2013\Projects\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.pdb
+c:\users\hp\documents\visual studio 2013\Projects\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.dll
+c:\users\hp\documents\visual studio 2013\Projects\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.pdb
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll.config
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.pdb
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.dll
+C:\Users\HP\Desktop\project\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.pdb
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll.config
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.dll
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\bin\NEWS_FASHION.pdb
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.dll
+C:\Users\HP\Desktop\project\NguyenNhut_1724801040053\WebsiteTinTucThoiTrang\NEWS_FASHION\NEWS_FASHION\obj\Debug\NEWS_FASHION.pdb
